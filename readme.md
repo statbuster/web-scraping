@@ -7,7 +7,7 @@ This project is a Python-based web scraping tool designed to extract data from w
 - Extract data from multiple web pages
 - Support for various data formats (HTML, JSON, etc.)
 - Customizable scraping rules
-- Error handling and logging
+- Error handling and logging    
 
 ## Requirements
 
@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or suggestions, please contact.
 
---date="2024-10-21T07:09:58-08:00"
+--date="2024-10-23T07:09:58-08:00"
